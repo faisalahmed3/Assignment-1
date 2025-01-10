@@ -77,3 +77,29 @@
     padding: 11px 20px;
 }
 
+.Quote{
+    background-color: #dedede;
+    margin: 24px 160px;
+    margin-bottom: 80px;
+    padding: 48px 24px;
+    border-radius: 16px;
+    background-image: url(/assets/quote-bg.png);
+    background-repeat: no-repeat;
+    background-position-x: 25px;
+    background-position-y: 40px;
+}
+.Quote div{
+    width: 64px;
+    height: 64px;
+}
+.Quote p{
+    font-weight: 400;
+    font-size: 16px;
+    color: #0E0E0E;
+    opacity: 80%;
+}
+.Quote h3{
+    font-weight: 600;
+    font-size: 20px;
+}
+
