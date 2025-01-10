@@ -24,3 +24,47 @@ nav a{
     font-size: 18;
     background-color: white;
 }
+
+/* Banner */
+.banner{
+    margin: 24px 160px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #C6E4D6;
+    border-radius: 24px;
+    padding: 80px 60px;
+}
+.H3{
+    color: #0E0E0E;
+    font-weight: 500;
+    font-size: 24px;
+    opacity: 50%;
+    text-align: left;
+    margin-bottom: 16px;
+}
+
+.bd2 p{
+    font-weight: 700;
+    font-size: 56px;
+    color: #0E0E0E;
+    text-align: left;
+    margin-top: 0px;
+    margin-bottom: 24px;
+}
+
+.bd3 a{
+    text-decoration: none;
+    color: white;
+    background-color: none;
+}
+
+.bd3 button{
+    background-color: #006A50;
+    padding: 17px 34px;
+    font-weight: 600;
+    font-size: 18;
+    border-color: #006A50;
+    border-radius: 8px;
+}
+
