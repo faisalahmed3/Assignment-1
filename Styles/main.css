@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    font-family: "Fira Sans";
+}
+
+.vision{
+    margin: 24px 160px;
+    margin-bottom: 80px;
+}
+/* The Vision of Future */
+.vs1 h1{
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 24px;
+}
+.vs1 p{
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.vs2{
+    display: flex;
+    justify-content:space-between;
+    justify-content: center;
+    margin: 32px 0px;
+}
+.vs2 h3{
+    font-weight: 700;
+    font-size: 20px;
+    margin-bottom: 12px;
+    margin-top: 24px;
+}
+.vs2 p{
+    font-weight: 400;
+    font-size: 16px;
+}
+.vs2 button{
+    font-weight: 600;
+    font-size: 16px;
+    border-radius: 8px;
+    border: none;
+    margin-top: 24px;
+}
+.vs2 a{
+    text-decoration: none;
+    color: white;
+}
+.vs2d1{
+    background-color: #9ab8eb;
+    border-radius: 16px;
+    padding: 32px;
+    margin-right: 24px;
+}
+.vs2d1 button{
+    background-color: #5490F5 ;
+    padding: 11px 20px;
+}
+.vs2d2{
+    background-color: #C6E4D6;
+    border-radius: 16px;
+    padding: 32px;
+    margin-right: 24px;
+}
+.vs2d2 button{
+    background-color: #09A15C ;
+    padding: 11px 20px;
+}
+
+.vs2d3{
+    background-color: #F7EBCF;
+    border-radius: 16px;
+    padding: 32px;
+}
+.vs2d3 button{
+    background-color: #FFC239 ;
+    padding: 11px 20px;
+}
+
