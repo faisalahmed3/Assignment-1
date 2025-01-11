@@ -87,7 +87,7 @@
     border-radius: 16px;
 }
  .Quote{
-    background-image: url(/assets/quote-bg.png);
+    background-image: url(./assets/quote-bg.png);
     background-repeat: no-repeat;
     background-position-x: 25px;
     background-position-y: 40px;
